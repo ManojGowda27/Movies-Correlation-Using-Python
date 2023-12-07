@@ -30,7 +30,3 @@ The primary aim of this code is to explore relationships between various movie a
 
 - The code assumes the existence of a movie dataset named "movies.csv" with columns such as 'budget', 'gross', 'company', 'votes', etc.
 - Modify the code as needed to suit your dataset's structure or add additional analysis as required.
-
-Feel free to adapt, expand, or enhance the analysis based on your specific requirements.
-
-For any questions or improvements, feel free to open an issue or submit a pull request.
